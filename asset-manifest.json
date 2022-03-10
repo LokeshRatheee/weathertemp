@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weathertemp/static/css/main.216f376a.css",
+    "main.js": "/weathertemp/static/js/main.79bcb80a.js",
+    "static/media/pexels-eberhard-grossgasteiger-3389531.jpg": "/weathertemp/static/media/pexels-eberhard-grossgasteiger-3389531.e2d72170240e7ba5f1ad.jpg",
+    "static/media/pexels-mateusz-sałaciak-4275890.jpg": "/weathertemp/static/media/pexels-mateusz-sałaciak-4275890.774a3a53884a8f1112ae.jpg",
+    "index.html": "/weathertemp/index.html",
+    "main.216f376a.css.map": "/weathertemp/static/css/main.216f376a.css.map",
+    "main.79bcb80a.js.map": "/weathertemp/static/js/main.79bcb80a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.216f376a.css",
+    "static/js/main.79bcb80a.js"
+  ]
+}
